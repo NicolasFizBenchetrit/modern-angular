@@ -1,0 +1,109 @@
+{
+    "dogBreeds": [{
+        "breed": "Labrador Retriever",
+        "breedType": "Purebred",
+        "origin": "Canada,USA",
+        "popularity": "1",
+        "temperament": ["Cheerful", "Gentle", "Friendly", "Intelligent"],
+        "hypoallergenic": "No",
+        "intelligence": 7,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Labrador_Retriever_%281210559%29.jpg"
+    }, {
+        "breed": "German Shepard",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "2",
+        "temperament": ["Corageous", "Intelligent", "Loyal", "Watchful"],
+        "hypoallergenic": "No",
+        "intelligence": 3,
+        "photo": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg" 
+    }, {
+        "breed": "Golden Retriever",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "3",
+        "temperament": ["Intelligent", "Kind", "Friendly", "Confident"],
+        "hypoallergenic": "No",
+        "intelligence": 4,
+        "photo": "https://www.purina.es/sites/default/files/2021-02/BREED%20Hero_0059_golden_retriever.jpg"
+    }, {
+        "breed": "French Bulldog",
+        "breedType": "Purebred",
+        "origin": "France, UK",
+        "popularity": "4",
+        "temperament": ["Playful", "Sociable", "Friendly", "Lively", "Patient"],
+        "hypoallergenic": "No",
+        "intelligence": 58,
+        "photo": "https://cdn.britannica.com/44/233844-050-A0F9F39C/French-bulldog.jpg"
+    }, {
+        "breed": "Bulldog",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "5",
+        "temperament": ["Friendly", "Docile", "Willful", "Gregarious"],
+        "hypoallergenic": "No",
+        "intelligence": 77,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Racib%C3%B3rz_2007_082.jpg"
+    }, {
+        "breed": "Beagle",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "6",
+        "temperament": ["Gentle", "Intelligent", "Even Tempered", "Determined"],
+        "hypoallergenic": "No",
+        "intelligence": 72,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Beagle_Faraon.JPG/1200px-Beagle_Faraon.JPG"
+    },
+    {
+        "breed": "Poodle",
+        "breedType": "Purebred",
+        "origin": "Germany, France",
+        "popularity": "7",
+        "temperament": ["Intelligent", "Faithful", "Trainable", "Instinctual"],
+        "hypoallergenic": "Yes",
+        "intelligence": 2,
+        "photo": "https://picartpetcare.com/wp-content/uploads/2020/05/POODLE.jpg"
+    },
+    {
+        "breed": "Rottweiler",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "8",
+        "temperament": ["Intelligent", "Corageous", "Fearless", "Confident"],
+        "hypoallergenic": "No",
+        "intelligence": 9,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/02_I_Exposici%C3%B3n_Monogr%C3%A1fica_Club_Rottweiler_de_Espa%C3%B1a_-_Santa_Brigida_-_Gran_Canaria.jpg"
+    },
+    {
+        "breed": "German Shorthaired Pointer",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "9",
+        "temperament": ["Intelligent", "Trainable", "Boisterous", "Cooperative"],
+        "hypoallergenic": "No",
+        "intelligence": 9,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Duitse_staande_korthaar_10-10-2.jpg"
+    },
+    {
+        "breed": "Yorkshire Terrier",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "10",
+        "temperament": ["Independent", "Intelligent", "Corageous", "Confident"],
+        "hypoallergenic": "Yes",
+        "intelligence": 27,
+        "photo": "https://www.purina.es/sites/default/files/2021-02/BREED%20Hero_0141_yorkshire_terrier.jpg"
+    },
+    {
+        "breed": "Boxer",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "11",
+        "temperament": ["Playful", "Friendly", "Devoted", "Loyal"],
+        "hypoallergenic": "No",
+        "intelligence": 48,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flashy_Fawn_FCI_Boxer.jpg/640px-Flashy_Fawn_FCI_Boxer.jpg"
+    }
+
+]
+}
