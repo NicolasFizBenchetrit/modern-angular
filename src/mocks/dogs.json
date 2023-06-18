@@ -103,6 +103,16 @@
         "hypoallergenic": "No",
         "intelligence": 48,
         "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flashy_Fawn_FCI_Boxer.jpg/640px-Flashy_Fawn_FCI_Boxer.jpg"
+    },
+    {
+        "breed": "Welsh Corgi",
+        "breedType": "Pembroke",
+        "origin": "United Kingdom",
+        "popularity": "11",
+        "temperament": ["Nervous", "Moody", "Friendly"],
+        "hypoallergenic": "No",
+        "intelligence": 80,
+        "photo": "https://www.zooplus.es/magazine/wp-content/uploads/2022/08/Welsh-corgi-corgi-gales-de-Pembroke.jpeg"
     }
 
 ]
